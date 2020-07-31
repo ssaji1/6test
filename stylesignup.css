@@ -1,0 +1,37 @@
+body{
+    background-image:url(sign.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:90%;
+    background-color:crimson;
+}
+.upfield {
+    background-color: lightseagreen;
+    width:30%;
+    margin-top:50px;
+    margin-left:490px;
+}
+
+.upfield1 {
+    background-color: springgreen;
+    width: 30%;
+    margin-top: 50px;
+    margin-left:490px
+}
+.upfieldset {
+    background-color: mediumaquamarine;
+    width: 30%;
+    float:right;
+    margin-top :-500px;
+    margin-right:-90px;
+}
+
+input[type=submit] {
+    background-color: #000080;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
