@@ -1,7 +1,9 @@
+/*background imaged form*/
 body {
      background-image:url(sign.jpg);
 }
 
+/*alligning header*/
 .header{
     border:solid;
     text-align:center;
@@ -10,6 +12,8 @@ body {
     height:9%;
     margin-top:-3px;
 }
+
+/*Designing Containers*/
 .questions {
     border: outset;
     background-color: darkorange;
@@ -17,6 +21,8 @@ body {
     margin-top: 20px;
     padding: 2px 2px 2px 2px;
 }
+
+/*Designing Containers*/
 .questions .a{
     border:dotted;
     float:left;
@@ -24,11 +30,15 @@ body {
     margin-top:25px;
     background-color:antiquewhite;
 }
+
+/*Designing Containers*/
 .questions .a .one{
     border:groove;
     height:100px;
     
 }
+
+/*Designing Containers*/
 .questions .b{
     border:dotted;
     float:right;
@@ -36,11 +46,14 @@ body {
     margin-top:50px;
     background-color:antiquewhite;
 }
+
+/*Designing Containers*/
 .questions .b .two{
     border:groove;
     height:115px;
 }
 
+/* Full-width submit button */
 .survey1 [type=submit] {
     background-color: aqua;
     color: white;
@@ -54,12 +67,15 @@ body {
     border:unset;
 }
 
+/*Designing Containers*/
 .survey1{
      border:solid;
      margin-top:410px;
      height:46px;
      width:100%;
 }
+
+/* Full-width submit button */
 .survey2 [type=submit] {
     background-color: aqua;
     color: white;
@@ -73,12 +89,15 @@ body {
     border:unset;
 }
 
+/*Designing Containers*/
 .survey2{
      border:solid;
      margin-top:410px;
      height:46px;
      width:100%;
 }
+
+/* Full-width submit button */
 .survey3 [type=submit] {
     background-color: aqua;
     color: white;
@@ -92,6 +111,7 @@ body {
     border:unset;
 }
 
+/*Designing Containers*/
 .survey3{
      border:solid;
      margin-top:410px;

@@ -1,3 +1,4 @@
+/*background imaged form*/
 body{
     background-image:url(sign.jpg);
     background-repeat:no-repeat;
@@ -5,6 +6,8 @@ body{
     width:90%;
     background-color:crimson;
 }
+
+/*Designing Containers*/
 .upfield {
     background-color: lightseagreen;
     width:30%;
@@ -12,12 +15,15 @@ body{
     margin-left:490px;
 }
 
+/*Designing Containers*/
 .upfield1 {
     background-color: springgreen;
     width: 30%;
     margin-top: 50px;
     margin-left:490px
 }
+
+/*Designing Containers*/
 .upfieldset {
     background-color: mediumaquamarine;
     width: 30%;
@@ -26,6 +32,7 @@ body{
     margin-right:-90px;
 }
 
+/* Full-width submit button */
 input[type=submit] {
     background-color: #000080;
     color: white;

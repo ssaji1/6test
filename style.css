@@ -1,3 +1,4 @@
+/*background imaged form*/
 body {
     background-color: aliceblue;
     padding-left: 720px;
@@ -12,12 +13,13 @@ form {
     float:  right;
     
 }
+/*alligning the container*/
 .recover {
     margin-right: 30%;
     margin-left: -70%;
     padding-top:10%;
 }
-/* Full-width inputs */
+/* Full-width submit button */
 input[type=email], input[type=password] {
   width: 100%;
   padding: 12px 20px;
